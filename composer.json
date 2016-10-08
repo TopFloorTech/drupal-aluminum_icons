@@ -1,0 +1,8 @@
+{
+  "name": "drupal/aluminum_icons",
+  "type": "drupal-module",
+  "description": "Contains fields and configuration allowing selection and display of icons.",
+  "homepage": "http://drupal.org/project/aluminum_icons",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev"
+}

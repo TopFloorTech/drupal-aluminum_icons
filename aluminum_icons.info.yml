@@ -1,0 +1,8 @@
+name: Aluminum Icons
+type: module
+description: "Contains fields and configuration allowing selection and display of icons."
+core: 8.x
+package: Aluminum
+dependencies:
+  - aluminum
+  - aluminum_vault
